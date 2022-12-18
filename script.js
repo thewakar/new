@@ -1,6 +1,6 @@
 function loadContent () {
   // (A) FETCH "DUMMY.HTML"
-  fetch("https://thewakar.github.io/new/wish.html")
+  fetch("https://script.google.com/macros/s/AKfycbw0N43-yCGvdihQs3JCM8OVDjUC9YqhQ9Le7Y-ctPhGNV9tOyuUpKzQkNouYaw--rpD6A/exec")
  
   // (B) RETURN THE RESULT AS TEXT
   .then((result) => {
